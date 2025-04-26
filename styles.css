@@ -654,7 +654,7 @@ footer {
     }
     
     nav {
-        position: fixed;
+    flex-direction:row;
         top: 80px;
         left: -100%;
         width: 100%;
