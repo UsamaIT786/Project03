@@ -78,6 +78,7 @@ header {
     background-color: white;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     position: fixed;
+    justify-content:space-around;
     width: 100%;
     z-index: 1000;
     transition: all 0.3s ease;
@@ -654,7 +655,7 @@ footer {
     }
     
     nav {
-    flex-direction:row;
+        position:fixed;
         top: 80px;
         left: -100%;
         width: 100%;
