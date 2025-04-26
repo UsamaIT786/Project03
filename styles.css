@@ -654,6 +654,16 @@ footer {
         display: block;
         margin-right:2%;
     }
+
+    .logo span{
+
+        margin-left:3%;
+    }
+
+    .sub-logo span{
+
+        margin-left:3%;
+    }
     
     nav {
         position:fixed;
